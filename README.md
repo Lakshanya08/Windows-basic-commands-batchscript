@@ -26,7 +26,8 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 
-![alt text]("Screenshot 2025-11-15 222914.png")
+![alt text](Screenshot%202025-11-15%20222914.png)
+
 
 Remove the directory "my-folder"
 
