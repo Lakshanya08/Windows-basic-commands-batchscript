@@ -25,16 +25,25 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-11-15 222914.png>)
+=======
+
+>>>>>>> 65a559eead888db17e83dc5b49f3a24211968416
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-11-15 211916.png>)
+=======
+
+>>>>>>> 65a559eead888db17e83dc5b49f3a24211968416
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
 
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-11-15 212232.png>)
 Create the file hello.txt using echo and redirection
 
@@ -52,11 +61,34 @@ List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
 ![alt text](<Screenshot 2025-11-15 212705.png>)
+=======
+
+Create the file hello.txt using echo and redirection
+
+## COMMAND AND OUTPUT
+
+Copy the file hello.txt into the file hello1.txt
+
+## COMMAND AND OUTPUT
+
+Remove the file hello1.txt
+
+## COMMAND AND OUTPUT
+
+List out the file hello1.txt in the current directory
+
+## COMMAND AND OUTPUT
+
+>>>>>>> 65a559eead888db17e83dc5b49f3a24211968416
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
 
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-11-15 212841.png>)
+=======
+
+>>>>>>> 65a559eead888db17e83dc5b49f3a24211968416
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
@@ -70,7 +102,11 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-11-15 214514.png>)
+=======
+
+>>>>>>> 65a559eead888db17e83dc5b49f3a24211968416
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -85,7 +121,11 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 ## OUTPUT
 
 
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-11-15 215052.png>)
+=======
+
+>>>>>>> 65a559eead888db17e83dc5b49f3a24211968416
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
@@ -93,7 +133,11 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-11-15 215156.png>)
+=======
+
+>>>>>>> 65a559eead888db17e83dc5b49f3a24211968416
 
 
 
@@ -106,7 +150,11 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-11-15 215246.png>)
+=======
+
+>>>>>>> 65a559eead888db17e83dc5b49f3a24211968416
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -116,7 +164,12 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-11-15 215426.png>)
+=======
+
+
+>>>>>>> 65a559eead888db17e83dc5b49f3a24211968416
 
 # RESULT:
 The commands/batch files are executed successfully.
