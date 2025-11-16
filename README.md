@@ -39,7 +39,6 @@ Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
 
-<<<<<<< HEAD
 ![alt text](image/3.png)
 Create the file hello.txt using echo and redirection
 
@@ -93,7 +92,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-![alt text](image/11.pn)
+![alt text](image/11.png)
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
